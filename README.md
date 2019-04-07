@@ -35,7 +35,7 @@ String[] names={"Lion","tiger","Monkey","Dog","cat","Elephant"};
         })
 ~~~
 ### 结果截图：
-<image width='250dp' hight='450dp' src="https://github.com/lianxinZ/UI/blob/master/READMEIMAGE/2.png">
+<image width='250dp' hight='450dp' src="https://github.com/Mao161/UI/blob/master/READMEIMAGE/2.png">
 
 ## 2.AlertDialog
 ### 关键代码：
@@ -55,7 +55,7 @@ String[] names={"Lion","tiger","Monkey","Dog","cat","Elephant"};
         });
 ~~~
 ### 结果截图：
-<image width='250dp' hight='450dp' src="https://github.com/lianxinZ/UI/blob/master/READMEIMAGE/3.png">
+<image width='250dp' hight='450dp' src="https://github.com/Mao161/UI/blob/master/READMEIMAGE/3.png">
 
 ## 3.XML定义菜单
 ### 关键代码：
@@ -101,10 +101,10 @@ String[] names={"Lion","tiger","Monkey","Dog","cat","Elephant"};
     }
    ~~~
 ### 结果截图：
-<image width='250dp' hight='450dp' src="https://github.com/lianxinZ/UI/blob/master/READMEIMAGE/4.png">
-<image width='250dp' hight='450dp' src="https://github.com/lianxinZ/UI/blob/master/READMEIMAGE/4-1.png">
-<image width='250dp' hight='450dp' src="https://github.com/lianxinZ/UI/blob/master/READMEIMAGE/4-2.png">
-<image width='250dp' hight='450dp' src="https://github.com/lianxinZ/UI/blob/master/READMEIMAGE/4-3.png">
+<image width='250dp' hight='450dp' src="https://github.com/Mao161/UI/blob/master/READMEIMAGE/4.png">
+<image width='250dp' hight='450dp' src="https://github.com/Mao161/UI/blob/master/READMEIMAGE/4-1.png">
+<image width='250dp' hight='450dp' src="https://github.com/Mao161/UI/blob/master/READMEIMAGE/4-2.png">
+<image width='250dp' hight='450dp' src="https://github.com/Mao161/UI/blob/master/READMEIMAGE/4-3.png">
 
 ## 4.ActionMode
 ### 关键代码：
@@ -158,5 +158,5 @@ String[] names={"Lion","tiger","Monkey","Dog","cat","Elephant"};
         });
    ~~~
 ### 结果截图：
-<image width='250dp' hight='450dp' src="https://github.com/lianxinZ/UI/blob/master/READMEIMAGE/5.png">
+<image width='250dp' hight='450dp' src="https://github.com/Mao161/UI/blob/master/READMEIMAGE/5.png">
    
